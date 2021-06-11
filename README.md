@@ -11,8 +11,11 @@
  
  | GitHub Stats | Top Languages |
 |:-:|:-:|
-| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison)](https://github.com/ktreharrison/github-readme-stats) |
+| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) |
  
+
+
+
  
  
  
