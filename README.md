@@ -32,6 +32,9 @@
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://ktreharrison.medium.com/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://ktreharrison.medium.com/)
 
+<br>
+<br>
+
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
  
