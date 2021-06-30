@@ -37,7 +37,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [5 Amazing Note-taking Apps](https://ktreharrison.medium.com/5-amazing-note-taking-apps-1a3b399de87?source=rss-ffad067cde1e------2)
+- [An Introduction to Web Scraping with Python and BeautifulSoup](https://python.plainenglish.io/intro-into-web-scraping-with-python-beautifulsoup-bff5008fb607?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
