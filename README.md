@@ -26,6 +26,13 @@
 <br>
 <br>
 
+## Certifications
+
+AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/2fd2e9e1-bc4a-4d1b-9e61-a6abb6dcb89d)
+AWS Certified Cloud Practitioner [badge](https://www.credly.com/badges/0f50f6d0-6ae7-4c92-bacb-86a656abb07b)
+PRINCE2 Agile® Practitioner CPD [badge](https://www.credly.com/badges/57a43e2f-ee92-451e-b38f-962d561bf5d8)
+
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenneth-harrison)
