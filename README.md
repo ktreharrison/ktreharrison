@@ -33,20 +33,19 @@
 - PRINCE2 Agile® Practitioner CPD [badge](https://www.credly.com/badges/57a43e2f-ee92-451e-b38f-962d561bf5d8)
 
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [5 Amazing Note-taking Apps](https://ktreharrison.medium.com/5-amazing-note-taking-apps-1a3b399de87?source=rss-ffad067cde1e------2)
+- [An Introduction to Web Scraping with Python and BeautifulSoup](https://python.plainenglish.io/intro-into-web-scraping-with-python-beautifulsoup-bff5008fb607?source=rss-ffad067cde1e------2)
+<!-- BLOG-POST-LIST:END -->
+
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kenneth-harrison)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://ktreharrison.medium.com/)
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://ktreharrison.medium.com/)
 
-<br>
-<br>
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [5 Amazing Note-taking Apps](https://ktreharrison.medium.com/5-amazing-note-taking-apps-1a3b399de87?source=rss-ffad067cde1e------2)
-- [An Introduction to Web Scraping with Python and BeautifulSoup](https://python.plainenglish.io/intro-into-web-scraping-with-python-beautifulsoup-bff5008fb607?source=rss-ffad067cde1e------2)
-<!-- BLOG-POST-LIST:END -->
 
 
 
