@@ -1,5 +1,5 @@
 [![](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)
-- 👋 Hi, I’m Ken
+- 👋🏾 Hi, I’m Ken
 - :man_technologist: I'm a Technical Program Manager working in Europe 	
 - 👀 I’m a self-taught Python developer 
 - 🌱 Naturally curious and always learning I’m currently learning full stack development 
