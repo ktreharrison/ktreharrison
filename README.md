@@ -29,10 +29,11 @@
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/2fd2e9e1-bc4a-4d1b-9e61-a6abb6dcb89d) <br>
-- AWS Certified Developer – Associate [badge](https://www.credly.com/earner/earned/badge/e6ac7f51-d58c-4e1d-ad23-c8815e77b37d) <br>
-- AWS Certified Cloud Practitioner [badge](https://www.credly.com/badges/0f50f6d0-6ae7-4c92-bacb-86a656abb07b) <br>
+- AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/2fd2e9e1-bc4a-4d1b-9e61-a6abb6dcb89d/public_url) <br>
+- AWS Certified Developer – Associate [badge](https://www.credly.com/badges/e6ac7f51-d58c-4e1d-ad23-c8815e77b37d/public_url) <br>
+- AWS Certified Cloud Practitioner [badge](https://www.credly.com/badges/31a43456-c3dd-4d39-9321-969a131f20ff/public_url) <br>
 - PRINCE2 Agile® Practitioner CPD [badge](https://www.credly.com/badges/57a43e2f-ee92-451e-b38f-962d561bf5d8)
+- PRINCE2 Foundation [badge](https://www.credly.com/badges/7a7c3177-de48-489f-841c-16273ada5145/public_url)
 
 
 ## Blog posts
