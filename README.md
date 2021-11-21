@@ -9,10 +9,11 @@
  
  
  
- | GitHub Stats | Top Languages |
-|:-:|:-:|
-| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) |
+| GitHub Stats 	| Top Languages 	| Dev Card 	|
+|:---:	|:---:	|---	|
+| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/aae1686b3c5849f79f604749c17149f2.png?r=cxb" width="400" alt="Ken Harrison's Dev Card"/></a> 	|
  
+
 
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
