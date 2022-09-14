@@ -38,6 +38,8 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 of the Best Free Newsletters](https://ktreharrison.medium.com/11-of-the-best-free-newsletters-4aca397b8612?source=rss-ffad067cde1e------2)
+- [Great Productivity Boosting Chrome Extensions](https://ktreharrison.medium.com/great-productivity-boosting-chrome-extensions-74ea667d11e4?source=rss-ffad067cde1e------2)
 - [6 Website to Learn Coding for Free](https://ktreharrison.medium.com/6-website-to-learn-coding-for-free-b98fe7d318f4?source=rss-ffad067cde1e------2)
 - [5 Amazing Note-taking Apps](https://ktreharrison.medium.com/5-amazing-note-taking-apps-1a3b399de87?source=rss-ffad067cde1e------2)
 - [An Introduction to Web Scraping with Python and BeautifulSoup](https://python.plainenglish.io/intro-into-web-scraping-with-python-beautifulsoup-bff5008fb607?source=rss-ffad067cde1e------2)
