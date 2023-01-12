@@ -34,6 +34,8 @@
 - AWS Certified Cloud Practitioner [badge](https://www.credly.com/badges/31a43456-c3dd-4d39-9321-969a131f20ff/public_url) <br>
 - PRINCE2 Agile® Practitioner CPD [badge](https://www.credly.com/badges/57a43e2f-ee92-451e-b38f-962d561bf5d8)
 - PRINCE2 Foundation [badge](https://www.credly.com/badges/7a7c3177-de48-489f-841c-16273ada5145/public_url)
+- Product-led Certification [badge](https://www.credly.com/earner/earned/badge/bbf15091-ba58-427c-bb6d-35a54009286e)
+- TeamOps Practioner [badge](https://levelup.gitlab.com/c/YopHR3XXSA6JrlOCL72f7A)
 
 
 ## Blog posts
