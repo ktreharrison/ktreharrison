@@ -40,11 +40,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive architecture &amp; Progressive web apps](https://ktreharrison.medium.com/adaptive-architecture-progressive-web-apps-9cba7d484c9d?source=rss-ffad067cde1e------2)
+- [Personal Knowledge Management &lpar;PKM&rpar; tools](https://ktreharrison.medium.com/personal-knowledge-management-pkm-tools-14fc00a7b809?source=rss-ffad067cde1e------2)
+- [What is Personal knowledge management &lpar;PKM&rpar; ?](https://ktreharrison.medium.com/what-is-personal-knowledge-management-pkm-bf30b78279fb?source=rss-ffad067cde1e------2)
 - [Forget MS Word, switch to Markdown](https://ktreharrison.medium.com/forget-ms-word-switch-to-markdown-6c35db9a00b8?source=rss-ffad067cde1e------2)
 - [MacBook Apps to Supercharge Your Productivity](https://ktreharrison.medium.com/macbook-apps-to-supercharge-your-productivity-e9fdd4755577?source=rss-ffad067cde1e------2)
-- [11 of the Best Free Newsletters](https://ktreharrison.medium.com/11-of-the-best-free-newsletters-4aca397b8612?source=rss-ffad067cde1e------2)
-- [Great Productivity Boosting Chrome Extensions](https://ktreharrison.medium.com/great-productivity-boosting-chrome-extensions-74ea667d11e4?source=rss-ffad067cde1e------2)
-- [6 Website to Learn Coding for Free](https://ktreharrison.medium.com/6-website-to-learn-coding-for-free-b98fe7d318f4?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
