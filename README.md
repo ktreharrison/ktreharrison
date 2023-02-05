@@ -40,11 +40,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Python Libraries you need!](https://python.plainenglish.io/5-python-libraries-you-need-54e6867e264?source=rss-ffad067cde1e------2)
 - [Wrap — The Terminal Game Changer](https://ktreharrison.medium.com/wrap-the-terminal-game-changer-6196482c7d31?source=rss-ffad067cde1e------2)
 - [Adaptive architecture &amp; Progressive web apps](https://ktreharrison.medium.com/adaptive-architecture-progressive-web-apps-9cba7d484c9d?source=rss-ffad067cde1e------2)
 - [Personal Knowledge Management &lpar;PKM&rpar; tools](https://ktreharrison.medium.com/personal-knowledge-management-pkm-tools-14fc00a7b809?source=rss-ffad067cde1e------2)
 - [What is Personal knowledge management &lpar;PKM&rpar; ?](https://ktreharrison.medium.com/what-is-personal-knowledge-management-pkm-bf30b78279fb?source=rss-ffad067cde1e------2)
-- [Forget MS Word, switch to Markdown](https://ktreharrison.medium.com/forget-ms-word-switch-to-markdown-6c35db9a00b8?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me
