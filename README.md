@@ -1,7 +1,7 @@
 [![](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)
 - 👋🏾 Hi, I’m Ken
 - :man_technologist: I'm a Technical Program Manager working in Europe 	
-- 👀 I’m a self-taught Python developer 
+- 👀 I’m a self-taught Python Developer 
 - 🌱 Naturally curious and always learning I’m currently learning full stack development and cloud development
 - 💞️ I’m looking to collaborate on Web Development, Data Analytics or any cool projects that come my way
 - :trophy: Some of my qualifactions: [credly](https://www.credly.com/users/ken-harrison.df90c429)
