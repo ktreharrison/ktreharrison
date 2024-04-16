@@ -11,7 +11,7 @@
  
 | GitHub Stats 	| Top Languages 	| Dev Card 	|
 |:---:	|:---:	|---	|
-| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=c8v" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
+| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=7wm" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
  
 
 
