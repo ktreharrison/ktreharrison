@@ -1,19 +1,27 @@
 [![](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)](https://github.com/ktreharrison/ktreharrison/blob/main/banner%20(4).png)
-- 👋🏾 Hi, I’m Ken
-- :man_technologist: I'm a Technical Program Manager working in Europe 	
-- 👀 I’m a self-taught Python Developer 
-- 🌱 Naturally curious and always learning I’m currently learning full stack development and cloud development
-- 💞️ I’m looking to collaborate on Web Development, Data Analytics or any cool projects that come my way. [Check my brew profile](https://www.brewfiles.com/brew/gBG7H5qsvdHWN9piG8aC/)
-- :trophy: Some of my qualifactions: [credly](https://www.credly.com/users/ken-harrison.df90c429)
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/kenneth-harrison/) or [Medium](https://ktreharrison.medium.com/)
- 
- 
- 
-| GitHub Stats 	| Top Languages 	| Dev Card 	|
-|:---:	|:---:	|---	|
-| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=7wm" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
- 
 
+---
+# Ken Harrison
+
+👋 Hi, I'm Ken - a Technical Program Manager, AWS Certified Solutions Architect, and self-taught developer.
+
+🚀 Passionate about leveraging technology to drive innovation and optimize business operations. 
+   Experienced in leading cross-functional teams and delivering complex technical projects.
+
+🌱 Continuously expanding my skills in full stack development, cloud architecture, and emerging technologies.
+   Always eager to learn and tackle new challenges in the ever-evolving tech landscape.
+
+💼 Blending technical expertise with strategic thinking to enhance product development and streamline processes.
+
+🏆 Some of my qualifications: [credly](https://www.credly.com/users/kenneth-harrison.1e4f1ad9)
+
+💡 Interests: Cloud Computing, Web Development, Data Analytics, AI/ML, Agile Methodologies
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kenneth-harrison/) or [Medium](https://medium.com/@kenneth.harrison)
+
+🍺 Check my [brew profile](https://www.brewbound.com/profile/kenneth-harrison)
+
+---
 
 ## Expertise
 <img align="left" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,7 +33,14 @@
 <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <br>
-<br>
+ 
+---
+ 
+| GitHub Stats 	| Top Languages 	| Dev Card 	|
+|:---:	|:---:	|---	|
+| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=7wm" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
+ 
+---
 
 ## Certifications
 
@@ -37,6 +52,7 @@
 - Product-led Certification [badge](https://www.credly.com/earner/earned/badge/bbf15091-ba58-427c-bb6d-35a54009286e)
 - TeamOps Practioner [badge](https://levelup.gitlab.com/c/YopHR3XXSA6JrlOCL72f7A)
 
+---
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -46,6 +62,8 @@
 - [Sourcery: A Free Tool for Better Python Code!](https://python.plainenglish.io/sourcery-a-free-tool-for-better-python-code-ef37e2fb791?source=rss-ffad067cde1e------2)
 - [5 Python Libraries you need!](https://python.plainenglish.io/5-python-libraries-you-need-54e6867e264?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
+
+---
 
 ## Connect with me
 
