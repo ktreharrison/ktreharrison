@@ -19,7 +19,7 @@
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kenneth-harrison/) or [Medium](https://medium.com/@kenneth.harrison)
 
-🍺 Check my [brew profile](https://www.brewbound.com/profile/kenneth-harrison)
+🍺 Check my [brew profile](https://www.brewfiles.com/brew/gBG7H5qsvdHWN9piG8aC/)
 
 ---
 
