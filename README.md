@@ -3,6 +3,8 @@
 ---
 # Ken Harrison
 
+<img align="right" height="150" src="https://github.com/ktreharrison/ktreharrison/raw/main/Blacktocat_single_1.jpg" alt=" Blackocat Octocats" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 👋 Hi, I'm Ken - a Technical Program Manager, AWS Certified Solutions Architect, and self-taught developer.
 
 🚀 Passionate about leveraging technology to drive innovation and optimize business operations. 
@@ -32,16 +34,35 @@
 <img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img align="left" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
-<br>
- 
----
- 
-| GitHub Stats 	| Top Languages 	| Dev Card 	|
-|:---:	|:---:	|---	|
-| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=7wm" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
- 
+<br />
+
 ---
 
+## 🛠️ Tools I Use
+
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>&nbsp;
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="30" height="30"/ >&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" height="30" />&nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="github" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="30" height="30"/>&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original-wordmark.svg" width="30" height="30" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" width="30" height="30" />&nbsp;      
+</p>
+
+---
+ 
 ## Certifications
 
 - AWS Certified Solutions Architect – Associate [badge](https://www.credly.com/badges/2fd2e9e1-bc4a-4d1b-9e61-a6abb6dcb89d/public_url) <br>
@@ -63,6 +84,13 @@
 - [5 Python Libraries you need!](https://python.plainenglish.io/5-python-libraries-you-need-54e6867e264?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
 
+
+---
+ 
+| GitHub Stats 	| Top Languages 	| Dev Card 	|
+|:---:	|:---:	|---	|
+| [![Ken's github stats](https://github-readme-stats.vercel.app/api?username=ktreharrison&count_private=true&show_icons=true&theme=algolia&hide_rank=false)](https://github.com/ktreharrison/github-readme-stats) 	| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktreharrison&layout=compact&theme=algolia)](https://github.com/ktreharrison/github-readme-stats) 	| <a href="https://app.daily.dev/ktreharrison"><img src="https://api.daily.dev/devcards/v2/tR1mMv2uE.png?type=default&r=7wm" width="356" alt="Ken Harrison's Dev Card"/></a> 	|
+ 
 ---
 
 ## Connect with me
