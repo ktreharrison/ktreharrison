@@ -15,7 +15,7 @@
 
 💼 Blending technical expertise with strategic thinking to enhance product development and streamline processes.
 
-🏆 Some of my qualifications: [credly](https://www.credly.com/users/kenneth-harrison.1e4f1ad9)
+🏆 Some of my qualifications: [credly](https://www.credly.com/users/ken-harrison.df90c429)
 
 💡 Interests: Cloud Computing, Web Development, Data Analytics, AI/ML, Agile Methodologies
 
