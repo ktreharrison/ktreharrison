@@ -16,4 +16,8 @@ jobs:
         uses: dailydotdev/action-devcard@3.2.1
         with:
           devcard_id: ${{ secrets.user_id }}
+      - name: Install ImageMagick
+        run: sudo apt-get install -y imagemagick
+      - name: Convert SVG to PNG
+        run: convert /tmp/devcard.svg /tmp/devcard.png
       
