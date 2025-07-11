@@ -77,11 +77,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The CLI Superpower: A TPM’s Journey Through Terminal Productivity](https://medium.com/travel-tech/the-cli-superpower-a-tpms-journey-through-terminal-productivity-49c3a111b034?source=rss-ffad067cde1e------2)
 - [Writerside: Your New IDE for Documentation Excellence](https://ktreharrison.medium.com/writerside-your-new-ide-for-documentation-excellence-8fd944d4aeb0?source=rss-ffad067cde1e------2)
 - [Say Goodbye to Nano, Vim, and Neovim: Meet Your New Terminal-Based Text Editors!](https://ktreharrison.medium.com/say-goodbye-to-nano-vim-and-neovim-meet-your-new-terminal-based-text-editors-c01b964dc2b8?source=rss-ffad067cde1e------2)
 - [Prioritization frameworks and strategies for Product Teams](https://ktreharrison.medium.com/prioritization-frameworks-and-strategies-for-product-teams-ab0e0140930?source=rss-ffad067cde1e------2)
 - [Sourcery: A Free Tool for Better Python Code!](https://python.plainenglish.io/sourcery-a-free-tool-for-better-python-code-ef37e2fb791?source=rss-ffad067cde1e------2)
-- [5 Python Libraries you need!](https://python.plainenglish.io/5-python-libraries-you-need-54e6867e264?source=rss-ffad067cde1e------2)
 <!-- BLOG-POST-LIST:END -->
 
 
