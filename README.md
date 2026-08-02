@@ -1,11 +1,12 @@
 # Ken Harrison
 
-I started in Sport Science and kept the method: measure, instrument, iterate. The athletes are now knowledge workers. I don't build the AI harnesses; I build what makes them usable: packaged agents, skills, workflows, and knowledge systems that let someone who'll never open a terminal be productive with one anyway. I do this at Amazon (Sr. Technical Program Manager, Luxembourg), where setups I've packaged run daily work for people I've never met.
+I started in Sport Science and kept the method: measure, instrument, iterate. The athletes are now knowledge workers. I architect agent platforms and build the capabilities that put them to work: packaged agents, skills, workflows, and knowledge systems that let someone who'll never open a terminal be productive anyway. I do this at Amazon (Sr. Technical Program Manager, Luxembourg), where setups I've packaged run daily work for people I've never met.
 
 > "AI didn't make me work harder, it removed every reason to stop."
 
 ## What I do
 
+- Architecture first. Decision records before code: I have authored the ADR sets behind a production data lakehouse and the agent platforms I ship.
 - Ship, not demo. The agent setups I package run daily work in production, for teams I have never met.
 - Get non-specialists across the gap. People whose only AI exposure was a chat window end up running multi-step agentic workflows, and staying.
 - Measure like a scientist. Most people try an AI tool once and quit; I instrument adoption, find out why, and fix the setup instead of blaming the user.
