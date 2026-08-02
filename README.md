@@ -6,9 +6,9 @@ I started in Sport Science and kept the method: measure, instrument, iterate. Th
 
 ## What I do
 
-- Package AI capability: agents, skills, tool wiring, and context, shipped as versioned, installable setups
-- Run AI enablement at scale: workshops, office hours, and adoption programs across Amazon's European operations
-- Measure what works: adoption data over anecdotes, instrumented rollouts, honest baselines
+- Ship, not demo. The agent setups I package run daily work in production, for teams I have never met.
+- Get non-specialists across the gap. People whose only AI exposure was a chat window end up running multi-step agentic workflows, and staying.
+- Measure like a scientist. Most people try an AI tool once and quit; I instrument adoption, find out why, and fix the setup instead of blaming the user.
 
 ## Writing
 
