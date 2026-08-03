@@ -6,7 +6,7 @@ My background is in Sport Science. I apply the same method to knowledge work: me
 
 ## What I do
 
-- Architecture first. I write architecture decision records before code ships, for production data systems and agent platforms.
+- I write architecture decision records for production data systems and agent platforms.
 - The setups I package run in production inside Amazon, doing daily work for teams I've never met.
 - I design multi-step agent workflows that non-specialists can adopt and continue using.
 - I instrument adoption, investigate drop-off, and improve the setup.
