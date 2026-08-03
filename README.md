@@ -25,7 +25,7 @@ More on [Medium](https://ktreharrison.medium.com).
 
 ## Certifications
 
-AWS Solutions Architect Associate · AWS Developer Associate · AWS Cloud Practitioner · PRINCE2 Agile Practitioner
+AWS Solutions Architect Associate · AWS Developer Associate
 
 ## Elsewhere
 
