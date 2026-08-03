@@ -1,13 +1,15 @@
 # Ken Harrison
 
-I started in Sport Science and kept the method: measure, instrument, iterate. The athletes are now knowledge workers. I architect agent platforms and build the capabilities that put them to work: packaged agents, skills, workflows, and knowledge systems that let someone who'll never open a terminal be productive anyway. I do this at Amazon (Sr. Technical Program Manager, Luxembourg), where setups I've packaged run daily work for people I've never met. Most of my production work is internal to Amazon; what can be public is on this page.
+I build and package agent systems at Amazon: agents, skills, workflows, and knowledge systems for technical and non-technical users. Most of my production work is internal; what can be public is on this page.
+
+My background is in Sport Science. I apply the same method to knowledge work: measure, instrument, iterate.
 
 ## What I do
 
 - Architecture first. I write architecture decision records before code ships, for production data systems and agent platforms.
 - The setups I package run in production inside Amazon, doing daily work for teams I've never met.
-- I specialize in getting non-specialists across the gap: people whose only AI exposure was a chat window end up running multi-step agentic workflows, and staying.
-- And I measure. Most people try an AI tool once and quit, so I instrument adoption, find out why, and fix the setup instead of blaming the user.
+- I design multi-step agent workflows that non-specialists can adopt and continue using.
+- I instrument adoption, investigate drop-off, and improve the setup.
 
 ## Writing
 
