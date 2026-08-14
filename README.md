@@ -14,9 +14,9 @@ My background is in Sport Science. I apply the same method to knowledge work: me
 ## Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Someone Thought of You](https://dev.to/ktreharrison/someone-thought-of-you-3lkp)
 - [My Work Week Starts Before I Sit Down: Running Kiro Crew as a Technical Program Manager](https://dev.to/ktreharrison/my-work-week-starts-before-i-sit-down-running-kiro-crew-as-a-technical-program-manager-3fgp)
 - [The CLI Superpower: A TPM’s Journey Through Terminal Productivity](https://dev.to/ktreharrison/the-cli-superpower-a-tpms-journey-through-terminal-productivity-2n61)
-- [Writerside: Your New IDE for Documentation Excellence](https://dev.to/ktreharrison/writerside-your-new-ide-for-documentation-excellence-36ao)
 <!-- BLOG-POST-LIST:END -->
 
 More on [DEV](https://dev.to/ktreharrison).
